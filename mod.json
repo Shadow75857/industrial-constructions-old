@@ -1,7 +1,7 @@
 name: "industrial-constructions"
-displayName: "An industrial mindustry mod."
+displayName: "Industrial Constructions"
 author: Shadow75857, PreklekGD
-description: "Test mod"
+description: "An industrial mindustry mod."
 version: "1.0"
 minGameVersion: "136"
 dependencies: [ ]
