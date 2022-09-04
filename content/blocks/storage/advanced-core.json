@@ -1,0 +1,10 @@
+type: CoreBlock
+name: Advanced Core
+description: Very epic, much core
+size: 8
+health: 1520
+itemCapacity: 5000
+requirements: [
+  spore-pod/10000
+]
+category: effect

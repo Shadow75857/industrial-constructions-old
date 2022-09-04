@@ -1,0 +1,8 @@
+name: "testmod"
+displayName: "Testenmoden"
+author: Shadow75857
+description: "Test mod"
+version: "1.0"
+minGameVersion: "136"
+dependencies: [ ]
+hidden: false
