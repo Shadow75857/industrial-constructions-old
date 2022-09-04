@@ -1,2 +1,6 @@
-const cobalt = Item("cobalt");
+const cobalt = Item("cobalt", {
+ 
+  name: "Cobalt";
+  
+});
 cobalt.color = Color.valueOf("0000FF");
