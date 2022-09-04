@@ -1,1 +1,1 @@
-require("items.js")
+require("items")
