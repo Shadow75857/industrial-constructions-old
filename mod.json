@@ -1,6 +1,6 @@
-name: "testmod"
-displayName: "Testenmoden"
-author: Shadow75857
+name: "industrial-constructions"
+displayName: "An industrial mindustry mod."
+author: Shadow75857, PreklekGD
 description: "Test mod"
 version: "1.0"
 minGameVersion: "136"
